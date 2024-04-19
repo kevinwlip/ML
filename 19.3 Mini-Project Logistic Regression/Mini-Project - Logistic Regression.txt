@@ -1,0 +1,5 @@
+Mini-Project: Logistic Regression
+
+In this project, you will explore how logistic regression models are trained and how to interpret their coefficients. Through practical examples using Python's popular data science libraries like NumPy, Pandas, and Scikit-learn, you will learn how to implement logistic regression, evaluate its performance, handle multi-class classification, and apply regularization techniques.
+
+"Complete project instructions are located on the README file in the GitHub repository for these projects."
