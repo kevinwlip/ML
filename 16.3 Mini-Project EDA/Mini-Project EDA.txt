@@ -1,0 +1,5 @@
+Mini-Project: EDA
+
+In this colab notebook, you will learn how to perform exploratory data analysis (EDA) on a real-world dataset using Python. We will use Python's popular data science libraries, such as Pandas, Matplotlib, and Seaborn, to explore and visualize a dataset on a topic of interest.
+
+"Complete project instructions are located on the README file in the GitHub repository for these projects."
