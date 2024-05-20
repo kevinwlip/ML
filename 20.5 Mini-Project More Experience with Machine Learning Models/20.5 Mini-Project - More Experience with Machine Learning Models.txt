@@ -1,0 +1,5 @@
+Mini-Project: More Experience With Machine Learning Models
+
+In this colab notebook, you will build and evaluate several machine learning models using Python's popular data science libraries, such as Scikit-learn, Pandas, and NumPy. 
+You will start by loading a real-world dataset and preparing it for modeling by handling missing values, encoding categorical variables, and splitting the data into training and testing sets. 
+Then, you will build several machine learning models, including a baseline, and evaluate their performance using common evaluation metrics, such as accuracy, precision, recall, F1-score, and AUC-ROC.
