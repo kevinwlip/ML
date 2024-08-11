@@ -25,26 +25,35 @@ Connect to AWS EC2 Instance.
 
 In EC2 command line:
 
+```
 $ sudo su
 $ yum update
 $ yum install git (first time)
 $ yum install python3-pip
+```
 
 Get GitHub link to repo.
-
+```
 $ git clone [GitHub repo link]
 $ cd [repo]
 $ python3 -m pip install -r requirements.txt
+```
 
-# If issue with requests library try the following
-$ python3 -m pip install --ignore-installed streamlit
+If issue with requests library try the following
 
-$ python3 -m streamlit run [app.py]
+`$ python3 -m pip install --ignore-installed streamlit`
 
-# Keep app running, even if you close the EC2 instance window/terminal
-$ nohup python3 -m streamlit run [app.py]
+Run App
 
-# Look for process ID and kill the app, to prevent AWS charges
+`$ python3 -m streamlit run [app.py]`
+
+Keep app running, even if you close the EC2 instance window/terminal
+
+`$ nohup python3 -m streamlit run [app.py]`
+
+Look for process ID and kill the app, to prevent AWS charges
+```
 $ sudo su
 $ ps -ef
 $ kill [PID]
+```
