@@ -1,0 +1,7 @@
+streamlit
+beautifulsoup4
+pandas
+plotly-express
+transformers
+tensorflow
+tf-keras
