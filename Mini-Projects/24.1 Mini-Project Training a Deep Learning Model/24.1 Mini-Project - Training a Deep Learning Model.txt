@@ -1,0 +1,5 @@
+Mini-Project: Training a Deep Learning Model
+
+In this colab notebook, you will learn how to build and train a deep neural network using TensorFlow, a popular deep learning framework. 
+You will start by defining the architecture of the neural network, including the number of layers, the number of neurons in each layer, the activation function, and the loss function. 
+Then, you will train the neural network on a real-world dataset using gradient descent to minimize the loss function and improve the accuracy of the model.
