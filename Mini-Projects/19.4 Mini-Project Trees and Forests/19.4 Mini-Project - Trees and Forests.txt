@@ -1,0 +1,5 @@
+Mini-Project: Trees and Forests
+
+In this colab notebook, you will learn about three powerful tree-based learning techniques: Decision Trees, Random Forests, and Gradient Boosting. You will explore the advantages and limitations of decision trees, the concept of ensemble learning, and apply algorithms to real-world problems.
+
+"Complete project instructions are located on the README file in the GitHub repository for these projects."
